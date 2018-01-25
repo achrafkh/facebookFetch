@@ -1,7 +1,7 @@
 <?php
-define("TOKEN", "651139668361432|9beb313a9ec699c1c8c387418765558c");
+define("TOKEN", "token");
 
-define('DB_NAME', 'kais');
+define('DB_NAME', 'dbname');
 define('LOGIN', 'root');
 define('PWD', 'root');
 define('HOST', 'localhost');
