@@ -1,0 +1,7 @@
+{
+    "require": {
+        "guzzlehttp/guzzle": "~6.0",
+        "symfony/var-dumper": "^3.4",
+        "nesbot/carbon": "^1.22"
+    }
+}
